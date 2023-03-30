@@ -142,6 +142,6 @@ describe("Cart test", () => {
 
       // expect(true).toEqual(false);
       expect(userOneFinal.walletMoney).toBeLessThan(userOne.walletMoney);
-    });
-  });
+ });
+});
 });
